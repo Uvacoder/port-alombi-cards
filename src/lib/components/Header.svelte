@@ -9,20 +9,20 @@
 <div class="fake-nav"></div>
 <nav>
     <div>
-        <a href={url} class="name">alombi</a>
+        <a href={url} class="name">uvacoder</a>
         {#if lang == 'it'}
             <a href="/it/blog">Blog</a>
             <a href="/it/blog">Foto</a>
         {/if}
         {#if lang == 'en'}
-            <a target="_blank" rel="noreferrer" href="https://github.com/alombi">github</a>
+            <a target="_blank" rel="noreferrer" href="https://github.com/uvacoder">github</a>
         {/if}
     </div>
     <div>
         {#if lang == 'en'}
             <a href="/contacts">Contacts</a>
         {:else}
-            <a target="_blank" href="https://github.com/alombi/alombi.xyz">Codice sorgente</a>
+            <a target="_blank" href="https://github.com/uvacoder/port-alombi-cards">Source</a>
         {/if}
     </div>
 </nav>
