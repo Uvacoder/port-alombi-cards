@@ -3,29 +3,29 @@
 </script>
 
 <svelte:head>
-    <title>alombi</title>
+    <title>uvacoder</title>
 </svelte:head>
 
 <Header lang="en" />
 <div class="title">
     <h1>Welcome!</h1>
-    <h2>19, student & programmer</h2>
+    <h2>Pick your poison</h2>
 </div>
 
 <h2>Recently updated </h2>
 <div class="box-container">
-    <a target="_blank" rel="noreferrer" href="https://github.com/alombi/alombi.xyz">
+    <a target="_blank" rel="noreferrer" href="https://github.com/uvacoder/port-alombi-cards">
         <div class="box">
-            <h4>alombi.xyz </h4>
+            <h4>Homepage</h4>
             <p>My personal website</p>
             <div class="pill-container"><p class="pill svelte">sveltekit</p></div>
         </div>
     </a>
-    <a target="_blank" rel="noreferrer" href="https://github.com/alombi/rh-api">
+    <a target="_blank" rel="noreferrer" href="https://github.com/uvacoder/abcportfolio15">
         <div class="box">
-            <h4>rh-api</h4>
-            <p>An unofficial routinehub.co API</p>
-            <div class="pill-container"><p class="pill typescript">nextjs</p></div>
+            <h4>abcportfolio15</h4>
+            <p>Portfolio using notion API</p>
+            <div class="pill-container"><p class="pill typescript">notion</p></div>
         </div>
     </a>
     <a target="_blank" rel="noreferrer" href="https://github.com/shareablehq/shareable">
