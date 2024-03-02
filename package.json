@@ -8,8 +8,8 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^3.1.1",
-		"@sveltejs/kit": "^2.5.0",
+		"@sveltejs/adapter-auto": "^2.1.1",
+		"@sveltejs/kit": "^2.5.2",
 		"mdsvex": "^0.10.6",
 		"svelte": "^4.2.12",
 		"vite": "^5.1.4"
